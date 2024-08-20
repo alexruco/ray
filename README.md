@@ -13,7 +13,7 @@
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/ray.git
+   git clone https://github.com/alexruco/ray.git
  ```
  ```
 
