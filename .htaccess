@@ -1,7 +1,7 @@
 # .htaccess
 
 # Deny access to all .php files in the config directory
-<FilesMatch "(config\.php|db_config\.php)">
+<FilesMatch "(email_config\.php|db_config\.php)">
     Order Allow,Deny
     Deny from all
 </FilesMatch>
